@@ -1,0 +1,269 @@
+/*
+    Custom Header
+*/
+
+.header{
+	background:$main;
+	padding: 5px 10px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	z-index:100;
+	color: #fff;
+	border-bottom: 1px solid $border;
+	.logo{
+		font-size: 24px;
+		font-weight: bold;
+		float: left;
+	}
+	.menus{
+		float: right;
+		>li{
+			display: inline-block;
+			>a{
+				padding: 7px 20px;
+				display: block;
+				color: #fff;
+				font-weight:500;
+				border-radius: 3px;
+				&:hover{
+					background: rgba(#fff,0.1);
+					color: #fff;
+				}
+			}
+			&.active{
+				>a{
+					background: rgba(#fff,0.1);
+				}
+			}
+		}
+		.btn-download{
+			background: #359bc4;
+		}
+	}
+
+}
+
+.nav-toggle{
+	display: none;
+	color: $main;
+	width: 36px;
+	height: 36px;
+	text-align: center;
+	line-height: 36px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	font-size: 32px;
+	cursor: pointer;
+	.icon{
+		line-height: 36px;
+	}
+	@media (max-width: 991px){
+		display: block;
+	}
+}
+.header-title{
+	color: #fff;
+	font-weight: 500;
+	margin-bottom: 5px;
+	font-size: 20px;
+	@media (max-width: 520px){
+		display: none;
+	}
+}
+.header-sologan{
+	font-size: 14px;
+	opacity: 0.6;
+	@media (max-width: 520px){
+		display: none;
+	}
+}
+
+.header-account{
+	position: absolute;
+	top: 7px;
+	right: 0px;
+	@media (max-width: 991px){
+		display: none;
+	}
+	.btn{
+		margin:0px 3px;
+		border-color:$main;
+		color: $main;
+		border-radius: 0px;
+		width: 130px;
+		min-width:0px;
+		font-size: 16px;
+		text-transform: uppercase;
+		font-weight: 500;
+		&:hover{
+			background-color: $main;
+			color: #fff;
+		}
+		
+	}
+	.btn-register{
+		background-color: $main;
+		color: #fff;
+		&:hover{
+			background-color: darken($main,10%);
+			color: #fff;
+		}
+	}
+}
+
+.header-nav{
+	background:#fff;
+	border-bottom: 1px solid $border;
+	.menus{
+		>li{
+			float: left;
+			position: relative;
+			margin-right: 40px;
+			>a{
+				display: block;
+				padding: 15px 0px;
+				position: relative;
+			}
+			&.active{
+				>a{
+					&:before{
+						content: "";
+						bottom: 0px;
+						left: 0px;
+						right: 0px;
+						height: 3px;
+						background: $main;
+						position: absolute;
+					}
+				}
+			}
+		}
+		.dropdown-menu{
+			border-radius: 0px;
+			margin: 0px;
+		}
+		li{
+			&:hover{
+				>.dropdown-menu{
+					display: block;
+				}
+			}
+		}
+	}
+	.header-account{
+		display: none;
+	}
+	@media (max-width: 991px){
+		position: fixed;
+		top: 0px;
+		left: -100%;
+		visibility: hidden;
+		opacity: 0;
+		transition: all 0.3s ease;
+
+		bottom: 0px;
+		width: 260px;
+		z-index: 100;
+		&.show{
+			visibility: visible;
+			opacity: 1;
+			transition: all 0.3s ease;
+			left: 0px;			
+		}
+		.pull-left,.pull-right{
+			float: none;
+			width: 100%;
+		}
+		.menus{
+			>li{
+				width: 100%;
+				float: none;
+				border-bottom: 1px solid #e5e6e7;
+			}
+		}
+		.header-account{
+			display: block;
+			position: relative;
+			clear: both;
+			.btn{
+				width: 100%;
+				margin: 3px 0px;
+			}
+		}
+	}
+}
+
+.languages{
+	>.btn{
+		padding: 12px 10px;
+		background: none;
+	}
+	.icon{
+		width: 24px;
+		height: 17px;
+		background-repeat: no-repeat;
+		background-size: cover;
+		display: inline-block;
+		margin-right: 5px;
+		border-radius: 2px;
+		vertical-align: middle;
+		background-position: center;
+	}
+}
+.hero-banner{
+	background-image: url(../img/home/banner.svg);
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	background-color: #2A6EBB;
+	background-position: center;
+	padding: 90px 20px;
+	padding-bottom: 200px;
+	.box-search{
+		max-width: 768px;
+		margin: auto;
+		padding-right: 150px;
+		position: relative;
+
+		.form-control{
+			height: 40px;
+			box-shadow: none;
+			border: 0px;
+			font-size: 16px;
+			border-radius: 0px;
+		}
+		.btn-search{
+			width: 140px;
+			background:#00A0FF;
+			color: #fff;
+			text-transform: uppercase;
+			height: 40px;
+			top: 0px;
+			right: 0px;
+			min-width: 0px;
+			border-radius: 0px;
+			position: absolute;
+			.icon{
+				font-size: 18px;
+			}
+			&:hover{
+				background:darken(#00A0FF,10%);
+			}
+		}
+		@media (max-width: 991px){
+			padding-right: 0px;
+			.form-control{
+				padding-right: 40px;
+			}
+			.btn-search{
+				width: 40px;
+				font-size: 0px;
+				.icon{
+					font-size: 16px;
+				}
+			}
+		}
+	}
+}
