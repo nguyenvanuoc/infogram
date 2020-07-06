@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'infogram';
-  src:  url('../fonts/infogram.eot?s64hrs');
-  src:  url('../fonts/infogram.eot?s64hrs#iefix') format('embedded-opentype'),
-    url('../fonts/infogram.ttf?s64hrs') format('truetype'),
-    url('../fonts/infogram.woff?s64hrs') format('woff'),
-    url('../fonts/infogram.svg?s64hrs#infogram') format('svg');
+  src:  url('../fonts/infogram.eot?u40uo0');
+  src:  url('../fonts/infogram.eot?u40uo0#iefix') format('embedded-opentype'),
+    url('../fonts/infogram.ttf?u40uo0') format('truetype'),
+    url('../fonts/infogram.woff?u40uo0') format('woff'),
+    url('../fonts/infogram.svg?u40uo0#infogram') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -79,285 +79,321 @@
 .infogram-chip:before {
   content: "\e911";
 }
-.infogram-church:before {
+.infogram-cho-ben-thanh:before {
   content: "\e912";
 }
-.infogram-city:before {
+.infogram-chua-mot-cot:before {
   content: "\e913";
 }
-.infogram-cloud:before {
+.infogram-church:before {
   content: "\e914";
 }
-.infogram-co-cau-kinh-te:before {
+.infogram-city:before {
   content: "\e915";
 }
-.infogram-connected:before {
+.infogram-cloud:before {
   content: "\e916";
 }
-.infogram-construct:before {
+.infogram-co-cau-kinh-te:before {
   content: "\e917";
 }
-.infogram-crane:before {
+.infogram-connected:before {
   content: "\e918";
 }
-.infogram-db-money:before {
+.infogram-construct:before {
   content: "\e919";
 }
-.infogram-du-lich:before {
+.infogram-crane:before {
   content: "\e91a";
 }
-.infogram-events:before {
+.infogram-db-money:before {
   content: "\e91b";
 }
-.infogram-factory:before {
+.infogram-doctors:before {
   content: "\e91c";
 }
-.infogram-file-chart:before {
+.infogram-du-lich:before {
   content: "\e91d";
 }
-.infogram-file-chart1:before {
+.infogram-events:before {
   content: "\e91e";
 }
-.infogram-file-chart2:before {
+.infogram-factory:before {
   content: "\e91f";
 }
-.infogram-file-chart3:before {
+.infogram-file-chart:before {
   content: "\e920";
 }
-.infogram-filter-chart:before {
+.infogram-file-chart1:before {
   content: "\e921";
 }
-.infogram-financial-news:before {
+.infogram-file-chart2:before {
   content: "\e922";
 }
-.infogram-flamingo:before {
+.infogram-file-chart3:before {
   content: "\e923";
 }
-.infogram-forest-fire:before {
+.infogram-filter-chart:before {
   content: "\e924";
 }
-.infogram-forest-fire1:before {
+.infogram-financial-news:before {
   content: "\e925";
 }
-.infogram-gdp:before {
+.infogram-flamingo:before {
   content: "\e926";
 }
-.infogram-giao-thong-vt:before {
+.infogram-forest-fire:before {
   content: "\e927";
 }
-.infogram-global-info:before {
+.infogram-forest-fire1:before {
   content: "\e928";
 }
-.infogram-globe-arrow:before {
+.infogram-gdp:before {
   content: "\e929";
 }
-.infogram-globe-change:before {
+.infogram-giao-thong-vt:before {
   content: "\e92a";
 }
-.infogram-globe-change2:before {
+.infogram-global-info:before {
   content: "\e92b";
 }
-.infogram-globe-chart-money:before {
+.infogram-globe-arrow:before {
   content: "\e92c";
 }
-.infogram-globe-click:before {
+.infogram-globe-change:before {
   content: "\e92d";
 }
-.infogram-globe-connect:before {
+.infogram-globe-change2:before {
   content: "\e92e";
 }
-.infogram-globe-growth:before {
+.infogram-globe-chart-money:before {
   content: "\e92f";
 }
-.infogram-globe-money:before {
+.infogram-globe-click:before {
   content: "\e930";
 }
-.infogram-globe-shield:before {
+.infogram-globe-connect:before {
   content: "\e931";
 }
-.infogram-gold:before {
+.infogram-globe-growth:before {
   content: "\e932";
 }
-.infogram-gold2:before {
+.infogram-globe-money:before {
   content: "\e933";
 }
-.infogram-gold-2:before {
+.infogram-globe-shield:before {
   content: "\e934";
 }
-.infogram-gold3:before {
+.infogram-gold:before {
   content: "\e935";
 }
-.infogram-hand-chart:before {
+.infogram-gold2:before {
   content: "\e936";
 }
-.infogram-hand-globe:before {
+.infogram-gold-2:before {
   content: "\e937";
 }
-.infogram-hand-money:before {
+.infogram-gold3:before {
   content: "\e938";
 }
-.infogram-hand-touch:before {
+.infogram-hand-chart:before {
   content: "\e939";
 }
-.infogram-health:before {
+.infogram-hand-globe:before {
   content: "\e93a";
 }
-.infogram-house:before {
+.infogram-hand-money:before {
   content: "\e93b";
 }
-.infogram-landslip:before {
+.infogram-hand-touch:before {
   content: "\e93c";
 }
-.infogram-lut-bao:before {
+.infogram-health:before {
   content: "\e93d";
 }
-.infogram-map-vi:before {
+.infogram-house:before {
   content: "\e93e";
 }
-.infogram-mobile-chart:before {
+.infogram-landslip:before {
   content: "\e93f";
 }
-.infogram-money:before {
+.infogram-lut-bao:before {
   content: "\e940";
 }
-.infogram-money1:before {
+.infogram-map-vi:before {
   content: "\e941";
 }
-.infogram-money-block2:before {
+.infogram-mobile-chart:before {
   content: "\e942";
 }
-.infogram-money-change:before {
+.infogram-money:before {
   content: "\e943";
 }
-.infogram-money-connect:before {
+.infogram-money1:before {
   content: "\e944";
 }
-.infogram-more-arrow:before {
+.infogram-money2:before {
   content: "\e945";
 }
-.infogram-news:before {
+.infogram-money-block2:before {
   content: "\e946";
 }
-.infogram-oil:before {
+.infogram-money-change:before {
   content: "\e947";
 }
-.infogram-oil2:before {
+.infogram-money-connect:before {
   content: "\e948";
 }
-.infogram-oil-money:before {
+.infogram-more-arrow:before {
   content: "\e949";
 }
-.infogram-online:before {
+.infogram-motobike:before {
   content: "\e94a";
 }
-.infogram-pagoda:before {
+.infogram-news:before {
   content: "\e94b";
 }
-.infogram-phat-trien-doanh-nghiep:before {
+.infogram-no-car:before {
   content: "\e94c";
 }
-.infogram-plain:before {
+.infogram-oil:before {
   content: "\e94d";
 }
-.infogram-police:before {
+.infogram-oil2:before {
   content: "\e94e";
 }
-.infogram-power-pole:before {
+.infogram-oil-money:before {
   content: "\e94f";
 }
-.infogram-quy-mo-kinh-te:before {
+.infogram-online:before {
   content: "\e950";
 }
-.infogram-rain:before {
+.infogram-pagoda:before {
   content: "\e951";
 }
-.infogram-research-market:before {
+.infogram-people:before {
   content: "\e952";
 }
-.infogram-science:before {
+.infogram-phat-trien-doanh-nghiep:before {
   content: "\e953";
 }
-.infogram-science2:before {
+.infogram-plain:before {
   content: "\e954";
 }
-.infogram-screen-sitemap:before {
+.infogram-police:before {
   content: "\e955";
 }
-.infogram-ship:before {
+.infogram-power-pole:before {
   content: "\e956";
 }
-.infogram-soccer:before {
+.infogram-quy-mo-kinh-te:before {
   content: "\e957";
 }
-.infogram-spray:before {
+.infogram-rain:before {
   content: "\e958";
 }
-.infogram-stock-market:before {
+.infogram-research-market:before {
   content: "\e959";
 }
-.infogram-sun:before {
+.infogram-science:before {
   content: "\e95a";
 }
-.infogram-sunset:before {
+.infogram-science2:before {
   content: "\e95b";
 }
-.infogram-thien-tai:before {
+.infogram-screen-sitemap:before {
   content: "\e95c";
 }
-.infogram-thu-chi-nsnn:before {
+.infogram-ship:before {
   content: "\e95d";
 }
-.infogram-trans:before {
+.infogram-ship1:before {
   content: "\e95e";
 }
-.infogram-tree:before {
+.infogram-ship3:before {
   content: "\e95f";
 }
-.infogram-truckle:before {
+.infogram-sideslip:before {
   content: "\e960";
 }
-.infogram-user-art:before {
+.infogram-soccer:before {
   content: "\e961";
 }
-.infogram-user-connect:before {
+.infogram-spray:before {
   content: "\e962";
 }
-.infogram-user-home:before {
+.infogram-stock-market:before {
   content: "\e963";
 }
-.infogram-user-like:before {
+.infogram-sun:before {
   content: "\e964";
 }
-.infogram-users-build:before {
+.infogram-sunset:before {
   content: "\e965";
 }
-.infogram-users-chart:before {
+.infogram-thien-tai:before {
   content: "\e966";
 }
-.infogram-users-config2:before {
+.infogram-thu-chi-nsnn:before {
   content: "\e967";
 }
-.infogram-users-up:before {
+.infogram-traffic-accidents:before {
   content: "\e968";
 }
-.infogram-user-talk:before {
+.infogram-train:before {
   content: "\e969";
 }
-.infogram-virus:before {
+.infogram-trans:before {
   content: "\e96a";
 }
-.infogram-virus2:before {
+.infogram-tree:before {
   content: "\e96b";
 }
-.infogram-wea-rain:before {
+.infogram-truckle:before {
   content: "\e96c";
 }
-.infogram-wea-rain2:before {
+.infogram-user-art:before {
   content: "\e96d";
 }
-.infogram-wind:before {
+.infogram-user-connect:before {
   content: "\e96e";
 }
-.infogram-xay-dung:before {
+.infogram-user-home:before {
   content: "\e96f";
+}
+.infogram-user-like:before {
+  content: "\e970";
+}
+.infogram-users-build:before {
+  content: "\e971";
+}
+.infogram-users-chart:before {
+  content: "\e972";
+}
+.infogram-users-config2:before {
+  content: "\e973";
+}
+.infogram-users-up:before {
+  content: "\e974";
+}
+.infogram-user-talk:before {
+  content: "\e975";
+}
+.infogram-virus:before {
+  content: "\e976";
+}
+.infogram-virus2:before {
+  content: "\e977";
+}
+.infogram-wea-rain:before {
+  content: "\e978";
+}
+.infogram-wea-rain2:before {
+  content: "\e979";
+}
+.infogram-wind:before {
+  content: "\e97a";
+}
+.infogram-xay-dung:before {
+  content: "\e97b";
 }
