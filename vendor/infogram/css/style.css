@@ -24,7 +24,15 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.infogram-ktvung-money:before {
+  content: "\e9b2";
+}
+.infogram-ktvung-air:before {
+  content: "\e9b3";
+}
+.infogram-ktvung-2:before {
+  content: "\e9b4";
+}
 .infogram-atgt-oto:before {
   content: "\e9b1";
 }
