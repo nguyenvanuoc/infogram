@@ -18,11 +18,170 @@
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
-  line-height: 1;
+  line-height: inherit;
 
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+.infogram-csqt-06:before {
+  content: "\e9d3";
+}
+.infogram-csqt-07:before {
+  content: "\e9d4";
+}
+.infogram-csqt-08:before {
+  content: "\e9d5";
+}
+.infogram-csqt-09:before {
+  content: "\e9d6";
+}
+.infogram-csqt-10:before {
+  content: "\e9d7";
+}
+.infogram-csqt-11:before {
+  content: "\e9d8";
+}
+.infogram-csqt-12:before {
+  content: "\e9d9";
+}
+.infogram-csqt-01:before {
+  content: "\e9da";
+}
+.infogram-csqt-02:before {
+  content: "\e9db";
+}
+.infogram-csqt-03:before {
+  content: "\e9dc";
+}
+.infogram-csqt-04:before {
+  content: "\e9dd";
+}
+.infogram-llld-01:before {
+  content: "\e9de";
+}
+.infogram-llld-02:before {
+  content: "\e9df";
+}
+.infogram-llld-03:before {
+  content: "\e9e0";
+}
+.infogram-llld-04:before {
+  content: "\e9e1";
+}
+.infogram-llld-05:before {
+  content: "\e9e2";
+}
+.infogram-llld-06:before {
+  content: "\e9e3";
+}
+.infogram-llld-07:before {
+  content: "\e9e4";
+}
+.infogram-llld-08:before {
+  content: "\e9e5";
+}
+.infogram-llld-09:before {
+  content: "\e9e6";
+}
+.infogram-llld-10:before {
+  content: "\e9e7";
+}
+.infogram-llld-11:before {
+  content: "\e9e8";
+}
+.infogram-llld-12:before {
+  content: "\e9e9";
+}
+.infogram-csqt-05:before {
+  content: "\e9ea";
+}
+.infogram-llld-7:before {
+  content: "\e9eb";
+}
+.infogram-llld-9:before {
+  content: "\e9ec";
+}
+.infogram-llld-101:before {
+  content: "\e9ed";
+}
+.infogram-llld-111:before {
+  content: "\e9ee";
+}
+.infogram-llld-121:before {
+  content: "\e9ef";
+}
+.infogram-llld-13:before {
+  content: "\e9f0";
+}
+.infogram-llld-14:before {
+  content: "\e9f1";
+}
+.infogram-llld-8:before {
+  content: "\e9f2";
+}
+.infogram-llld-1:before {
+  content: "\e9f3";
+}
+.infogram-llld-2:before {
+  content: "\e9f4";
+}
+.infogram-llld-3:before {
+  content: "\e9f5";
+}
+.infogram-llld-4:before {
+  content: "\e9f6";
+}
+.infogram-llld-5:before {
+  content: "\e9f7";
+}
+.infogram-llld-6:before {
+  content: "\e9f8";
+}
+.infogram-business-contact-88:before {
+  content: "\e9c5";
+}
+.infogram-business-contact-86:before {
+  content: "\e9c6";
+}
+.infogram-tree2:before {
+  content: "\e9c7";
+}
+.infogram-home1:before {
+  content: "\e9c8";
+}
+.infogram-td-covid-10:before {
+  content: "\e9c9";
+}
+.infogram-td-covid-9:before {
+  content: "\e9ca";
+}
+.infogram-td-covid-8:before {
+  content: "\e9cb";
+}
+.infogram-td-covid-7:before {
+  content: "\e9cc";
+}
+.infogram-td-covid-6:before {
+  content: "\e9cd";
+}
+.infogram-td-covid-5:before {
+  content: "\e9ce";
+}
+.infogram-td-covid-4:before {
+  content: "\e9cf";
+}
+.infogram-td-covid-3:before {
+  content: "\e9d0";
+}
+.infogram-td-covid-2:before {
+  content: "\e9d1";
+}
+.infogram-td-covid-1:before {
+  content: "\e9d2";
+}
+.infogram-server:before {
+  content: "\e9c4";
 }
 .infogram-dvcqg-08:before {
   content: "\e9b5";
