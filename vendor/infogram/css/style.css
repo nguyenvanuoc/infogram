@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'infogram';
-  src:  url('../fonts/infogram.eot?n2em4g');
-  src:  url('../fonts/infogram.eot?n2em4g#iefix') format('embedded-opentype'),
-    url('../fonts/infogram.ttf?n2em4g') format('truetype'),
-    url('../fonts/infogram.woff?n2em4g') format('woff'),
-    url('../fonts/infogram.svg?n2em4g#infogram') format('svg');
+  src:  url('../fonts/infogram.eot?z87npb');
+  src:  url('../fonts/infogram.eot?z87npb#iefix') format('embedded-opentype'),
+    url('../fonts/infogram.ttf?z87npb') format('truetype'),
+    url('../fonts/infogram.woff?z87npb') format('woff'),
+    url('../fonts/infogram.svg?z87npb#infogram') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -18,756 +18,835 @@
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
-  line-height: inherit;
+  line-height: 1;
 
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.infogram-csqt-06:before {
-  content: "\e9d3";
-}
-.infogram-csqt-07:before {
-  content: "\e9d4";
-}
-.infogram-csqt-08:before {
-  content: "\e9d5";
-}
-.infogram-csqt-09:before {
-  content: "\e9d6";
-}
-.infogram-csqt-10:before {
-  content: "\e9d7";
-}
-.infogram-csqt-11:before {
-  content: "\e9d8";
-}
-.infogram-csqt-12:before {
-  content: "\e9d9";
-}
-.infogram-csqt-01:before {
-  content: "\e9da";
-}
-.infogram-csqt-02:before {
-  content: "\e9db";
-}
-.infogram-csqt-03:before {
-  content: "\e9dc";
-}
-.infogram-csqt-04:before {
-  content: "\e9dd";
-}
-.infogram-llld-01:before {
-  content: "\e9de";
-}
-.infogram-llld-02:before {
-  content: "\e9df";
-}
-.infogram-llld-03:before {
-  content: "\e9e0";
-}
-.infogram-llld-04:before {
-  content: "\e9e1";
-}
-.infogram-llld-05:before {
-  content: "\e9e2";
-}
-.infogram-llld-06:before {
-  content: "\e9e3";
-}
-.infogram-llld-07:before {
-  content: "\e9e4";
-}
-.infogram-llld-08:before {
-  content: "\e9e5";
-}
-.infogram-llld-09:before {
-  content: "\e9e6";
-}
-.infogram-llld-10:before {
-  content: "\e9e7";
-}
-.infogram-llld-11:before {
-  content: "\e9e8";
-}
-.infogram-llld-12:before {
-  content: "\e9e9";
-}
-.infogram-csqt-05:before {
-  content: "\e9ea";
-}
-.infogram-llld-7:before {
-  content: "\e9eb";
-}
-.infogram-llld-9:before {
-  content: "\e9ec";
-}
-.infogram-llld-101:before {
-  content: "\e9ed";
-}
-.infogram-llld-111:before {
-  content: "\e9ee";
-}
-.infogram-llld-121:before {
-  content: "\e9ef";
-}
-.infogram-llld-13:before {
-  content: "\e9f0";
-}
-.infogram-llld-14:before {
-  content: "\e9f1";
-}
-.infogram-llld-8:before {
-  content: "\e9f2";
-}
-.infogram-llld-1:before {
-  content: "\e9f3";
-}
-.infogram-llld-2:before {
-  content: "\e9f4";
-}
-.infogram-llld-3:before {
-  content: "\e9f5";
-}
-.infogram-llld-4:before {
-  content: "\e9f6";
-}
-.infogram-llld-5:before {
-  content: "\e9f7";
-}
-.infogram-llld-6:before {
-  content: "\e9f8";
-}
-.infogram-business-contact-88:before {
-  content: "\e9c5";
-}
-.infogram-business-contact-86:before {
-  content: "\e9c6";
-}
-.infogram-tree2:before {
-  content: "\e9c7";
-}
-.infogram-home1:before {
-  content: "\e9c8";
-}
-.infogram-td-covid-10:before {
-  content: "\e9c9";
-}
-.infogram-td-covid-9:before {
-  content: "\e9ca";
-}
-.infogram-td-covid-8:before {
-  content: "\e9cb";
-}
-.infogram-td-covid-7:before {
-  content: "\e9cc";
-}
-.infogram-td-covid-6:before {
-  content: "\e9cd";
-}
-.infogram-td-covid-5:before {
-  content: "\e9ce";
-}
-.infogram-td-covid-4:before {
-  content: "\e9cf";
-}
-.infogram-td-covid-3:before {
-  content: "\e9d0";
-}
-.infogram-td-covid-2:before {
-  content: "\e9d1";
-}
-.infogram-td-covid-1:before {
-  content: "\e9d2";
-}
-.infogram-server:before {
-  content: "\e9c4";
-}
-.infogram-dvcqg-08:before {
-  content: "\e9b5";
-}
-.infogram-dvcqg-07:before {
-  content: "\e9b6";
-}
-.infogram-dvcqg-06:before {
-  content: "\e9b7";
-}
-.infogram-dvcqg-05:before {
-  content: "\e9b8";
-}
-.infogram-dvcqg-04:before {
-  content: "\e9b9";
-}
-.infogram-dvcqg-03:before {
-  content: "\e9ba";
-}
-.infogram-dvcqg-02:before {
-  content: "\e9bb";
-}
-.infogram-dvcqg-01:before {
-  content: "\e9bc";
-}
-.infogram-dvcqg-15:before {
-  content: "\e9bd";
-}
-.infogram-dvcqg-14:before {
-  content: "\e9be";
-}
-.infogram-dvcqg-13:before {
-  content: "\e9bf";
-}
-.infogram-dvcqg-12:before {
-  content: "\e9c0";
-}
-.infogram-dvcqg-11:before {
-  content: "\e9c1";
-}
-.infogram-dvcqg-10:before {
-  content: "\e9c2";
-}
-.infogram-dvcqg-09:before {
-  content: "\e9c3";
-}
-.infogram-ktvung-money:before {
-  content: "\e9b2";
-}
-.infogram-ktvung-air:before {
-  content: "\e9b3";
-}
-.infogram-ktvung-2:before {
-  content: "\e9b4";
-}
-.infogram-atgt-oto:before {
-  content: "\e9b1";
-}
-.infogram-cchc-2:before {
-  content: "\e9ae";
-}
-.infogram-cchc-computer2:before {
-  content: "\e9af";
-}
-.infogram-cchc-computer:before {
-  content: "\e9b0";
-}
-.infogram-airplane:before {
+
+.infogram-tkqg-1:before {
   content: "\e900";
 }
-.infogram-airplane2:before {
+.infogram-tkqg-3:before {
   content: "\e901";
 }
-.infogram-an-toan-giao-thong:before {
+.infogram-tkqg-4:before {
   content: "\e902";
 }
-.infogram-arrow-collapse:before {
+.infogram-tkqg-5:before {
   content: "\e903";
 }
-.infogram-atgt-beer:before {
+.infogram-tkqg-6:before {
   content: "\e904";
 }
-.infogram-atgt-bike:before {
+.infogram-tkqg-7:before {
   content: "\e905";
 }
-.infogram-atgt-cam:before {
+.infogram-tkqg-8:before {
   content: "\e906";
 }
-.infogram-atgt-cam-oto:before {
+.infogram-tkqg-9:before {
   content: "\e907";
 }
-.infogram-atgt-can:before {
+.infogram-tkqg-10:before {
   content: "\e908";
 }
-.infogram-atgt-car:before {
+.infogram-tkqg-11:before {
   content: "\e909";
 }
-.infogram-atgt-cau:before {
+.infogram-csqt-05:before {
   content: "\e90a";
 }
-.infogram-atgt-chat-kich-thich:before {
+.infogram-csqt-06:before {
   content: "\e90b";
 }
-.infogram-atgt-chuyenlan:before {
+.infogram-csqt-07:before {
   content: "\e90c";
 }
-.infogram-atgt-cont:before {
+.infogram-csqt-08:before {
   content: "\e90d";
 }
-.infogram-atgt-cuu-thuong:before {
+.infogram-csqt-09:before {
   content: "\e90e";
 }
-.infogram-atgt-duong-tron:before {
+.infogram-csqt-10:before {
   content: "\e90f";
 }
-.infogram-atgt-luat-gt:before {
+.infogram-csqt-11:before {
   content: "\e910";
 }
-.infogram-atgt-nguoi:before {
+.infogram-csqt-12:before {
   content: "\e911";
 }
-.infogram-atgt-tainan:before {
+.infogram-csqt-01:before {
   content: "\e912";
 }
-.infogram-atgt-tai-xe:before {
+.infogram-csqt-02:before {
   content: "\e913";
 }
-.infogram-atgt-the:before {
+.infogram-csqt-03:before {
   content: "\e914";
 }
-.infogram-atgt-tocdo:before {
+.infogram-csqt-04:before {
   content: "\e915";
 }
-.infogram-atgt-trafficlight:before {
+.infogram-llld-01:before {
   content: "\e916";
 }
-.infogram-atgt-tt:before {
+.infogram-llld-02:before {
   content: "\e917";
 }
-.infogram-atgt-van-chuyen:before {
+.infogram-llld-03:before {
   content: "\e918";
 }
-.infogram-bank:before {
+.infogram-llld-04:before {
   content: "\e919";
 }
-.infogram-bao:before {
+.infogram-llld-05:before {
   content: "\e91a";
 }
-.infogram-beach:before {
+.infogram-llld-06:before {
   content: "\e91b";
 }
-.infogram-book:before {
+.infogram-llld-07:before {
   content: "\e91c";
 }
-.infogram-build:before {
+.infogram-llld-08:before {
   content: "\e91d";
 }
-.infogram-building:before {
+.infogram-llld-09:before {
   content: "\e91e";
 }
-.infogram-building1:before {
+.infogram-llld-10:before {
   content: "\e91f";
 }
-.infogram-bus:before {
+.infogram-llld-11:before {
   content: "\e920";
 }
-.infogram-chart1:before {
+.infogram-llld-12:before {
   content: "\e921";
 }
-.infogram-chart2:before {
+.infogram-mtkd-01:before {
   content: "\e922";
 }
-.infogram-chart3:before {
+.infogram-mtkd-02:before {
   content: "\e923";
 }
-.infogram-chart-growth:before {
+.infogram-mtkd-013:before {
   content: "\e924";
 }
-.infogram-chart-money:before {
+.infogram-ttktv-01:before {
   content: "\e925";
 }
-.infogram-chart-oil:before {
+.infogram-ttktv-05:before {
   content: "\e926";
 }
-.infogram-chart-user:before {
+.infogram-ttktv-07:before {
   content: "\e927";
 }
-.infogram-chayrung:before {
+.infogram-ttktv-02:before {
   content: "\e928";
 }
-.infogram-chess:before {
+.infogram-ttktv-03:before {
   content: "\e929";
 }
-.infogram-chip:before {
+.infogram-ttktv-04:before {
   content: "\e92a";
 }
-.infogram-cho-ben-thanh:before {
+.infogram-ttktv-06:before {
   content: "\e92b";
 }
-.infogram-chua-mot-cot:before {
+.infogram-ttktv-09:before {
   content: "\e92c";
 }
-.infogram-church:before {
+.infogram-ttktv-12:before {
   content: "\e92d";
 }
-.infogram-city:before {
+.infogram-ttktv-13:before {
   content: "\e92e";
 }
-.infogram-cloud:before {
+.infogram-ttktv-16:before {
   content: "\e92f";
 }
-.infogram-co-cau-kinh-te:before {
+.infogram-ttktv-08:before {
   content: "\e930";
 }
-.infogram-connected:before {
+.infogram-ttktv-10:before {
   content: "\e931";
 }
-.infogram-construct:before {
+.infogram-ttktv-11:before {
   content: "\e932";
 }
-.infogram-crane:before {
+.infogram-ttktv-14:before {
   content: "\e933";
 }
-.infogram-cuunan:before {
+.infogram-ttktv-15:before {
   content: "\e934";
 }
-.infogram-cuuthuong:before {
+.infogram-llld-1:before {
   content: "\e935";
 }
-.infogram-db-money:before {
+.infogram-llld-2:before {
   content: "\e936";
 }
-.infogram-doctors:before {
+.infogram-llld-3:before {
   content: "\e937";
 }
-.infogram-du-lich:before {
+.infogram-llld-4:before {
   content: "\e938";
 }
-.infogram-en:before {
+.infogram-llld-5:before {
   content: "\e939";
 }
-.infogram-events:before {
+.infogram-llld-6:before {
   content: "\e93a";
 }
-.infogram-factory:before {
+.infogram-llld-7:before {
   content: "\e93b";
 }
-.infogram-file-chart:before {
+.infogram-llld-9:before {
   content: "\e93c";
 }
-.infogram-file-chart1:before {
+.infogram-llld-13:before {
   content: "\e93d";
 }
-.infogram-file-chart2:before {
+.infogram-llld-14:before {
   content: "\e93e";
 }
-.infogram-file-chart3:before {
+.infogram-llld-8:before {
   content: "\e93f";
 }
-.infogram-filter-chart:before {
+.infogram-business-contact-88:before {
   content: "\e940";
 }
-.infogram-financial-news:before {
+.infogram-business-contact-86:before {
   content: "\e941";
 }
-.infogram-fire:before {
+.infogram-tree2:before {
   content: "\e942";
 }
-.infogram-flamingo:before {
+.infogram-home1:before {
   content: "\e943";
 }
-.infogram-forest-fire:before {
+.infogram-td-covid-10:before {
   content: "\e944";
 }
-.infogram-forest-fire1:before {
+.infogram-td-covid-9:before {
   content: "\e945";
 }
-.infogram-gdp:before {
+.infogram-td-covid-8:before {
   content: "\e946";
 }
-.infogram-giao-thong-vt:before {
+.infogram-td-covid-7:before {
   content: "\e947";
 }
-.infogram-global-info:before {
+.infogram-td-covid-6:before {
   content: "\e948";
 }
-.infogram-globe-air:before {
+.infogram-td-covid-5:before {
   content: "\e949";
 }
-.infogram-globe-arrow:before {
+.infogram-td-covid-4:before {
   content: "\e94a";
 }
-.infogram-globe-change:before {
+.infogram-td-covid-3:before {
   content: "\e94b";
 }
-.infogram-globe-change2:before {
+.infogram-td-covid-2:before {
   content: "\e94c";
 }
-.infogram-globe-chart-money:before {
+.infogram-td-covid-1:before {
   content: "\e94d";
 }
-.infogram-globe-click:before {
+.infogram-server:before {
   content: "\e94e";
 }
-.infogram-globe-connect:before {
+.infogram-dvcqg-15:before {
   content: "\e94f";
 }
-.infogram-globe-growth:before {
+.infogram-dvcqg-14:before {
   content: "\e950";
 }
-.infogram-globe-money:before {
+.infogram-dvcqg-13:before {
   content: "\e951";
 }
-.infogram-globe-shield:before {
+.infogram-dvcqg-12:before {
   content: "\e952";
 }
-.infogram-gold:before {
+.infogram-dvcqg-11:before {
   content: "\e953";
 }
-.infogram-gold2:before {
+.infogram-dvcqg-10:before {
   content: "\e954";
 }
-.infogram-gold-2:before {
+.infogram-dvcqg-09:before {
   content: "\e955";
 }
-.infogram-gold3:before {
+.infogram-dvcqg-08:before {
   content: "\e956";
 }
-.infogram-hand-chart:before {
+.infogram-dvcqg-07:before {
   content: "\e957";
 }
-.infogram-hand-globe:before {
+.infogram-dvcqg-06:before {
   content: "\e958";
 }
-.infogram-hand-money:before {
+.infogram-dvcqg-05:before {
   content: "\e959";
 }
-.infogram-hand-touch:before {
+.infogram-dvcqg-04:before {
   content: "\e95a";
 }
-.infogram-health:before {
+.infogram-dvcqg-03:before {
   content: "\e95b";
 }
-.infogram-house:before {
+.infogram-dvcqg-02:before {
   content: "\e95c";
 }
-.infogram-landslip:before {
+.infogram-dvcqg-01:before {
   content: "\e95d";
 }
-.infogram-lut-bao:before {
+.infogram-ktvung-2:before {
   content: "\e95e";
 }
-.infogram-map-vi:before {
+.infogram-ktvung-money:before {
   content: "\e95f";
 }
-.infogram-mobile-chart:before {
+.infogram-ktvung-air:before {
   content: "\e960";
 }
-.infogram-money:before {
+.infogram-atgt-oto:before {
   content: "\e961";
 }
-.infogram-money1:before {
+.infogram-cchc-2:before {
   content: "\e962";
 }
-.infogram-money2:before {
+.infogram-cchc-computer2:before {
   content: "\e963";
 }
-.infogram-money-block2:before {
+.infogram-cchc-computer:before {
   content: "\e964";
 }
-.infogram-money-change:before {
+.infogram-tkcn-tn-thuy-noi-dia:before {
   content: "\e965";
 }
-.infogram-money-connect:before {
+.infogram-tkcn-nha-sap:before {
   content: "\e966";
 }
-.infogram-more-arrow:before {
+.infogram-tkcn-tn-no:before {
   content: "\e967";
 }
-.infogram-motobike:before {
+.infogram-tkcn-tn-hoa-chat:before {
   content: "\e968";
 }
-.infogram-news:before {
+.infogram-tkcn-tn-thien-tai:before {
   content: "\e969";
 }
-.infogram-no-car:before {
+.infogram-tkcn-tn-bien:before {
   content: "\e96a";
 }
-.infogram-oil:before {
+.infogram-tkcn-tn-may-bay:before {
   content: "\e96b";
 }
-.infogram-oil2:before {
+.infogram-tkcn-tran-dau:before {
   content: "\e96c";
 }
-.infogram-oil-money:before {
+.infogram-train-2:before {
   content: "\e96d";
 }
-.infogram-online:before {
+.infogram-globe-air:before {
   content: "\e96e";
 }
-.infogram-pagoda:before {
+.infogram-ship4:before {
   content: "\e96f";
 }
-.infogram-pen-chart:before {
+.infogram-tkcn-cau-hang:before {
   content: "\e970";
 }
-.infogram-people:before {
+.infogram-tkcn-people:before {
   content: "\e971";
 }
-.infogram-people2:before {
+.infogram-tkcn-yt:before {
   content: "\e972";
 }
-.infogram-phat-trien-doanh-nghiep:before {
+.infogram-tkcn-cl:before {
   content: "\e973";
 }
-.infogram-plain:before {
+.infogram-atgt-cau:before {
   content: "\e974";
 }
-.infogram-podium:before {
+.infogram-atgt-tai-xe:before {
   content: "\e975";
 }
-.infogram-police:before {
+.infogram-atgt-cuu-thuong:before {
   content: "\e976";
 }
-.infogram-power-pole:before {
+.infogram-atgt-chuyenlan:before {
   content: "\e977";
 }
-.infogram-quy-mo-kinh-te:before {
+.infogram-podium:before {
   content: "\e978";
 }
-.infogram-rain:before {
+.infogram-pen-chart:before {
   content: "\e979";
 }
-.infogram-research-market:before {
+.infogram-build:before {
   content: "\e97a";
 }
-.infogram-science:before {
+.infogram-en:before {
   content: "\e97b";
 }
-.infogram-science2:before {
+.infogram-star:before {
   content: "\e97c";
 }
-.infogram-screen-sitemap:before {
+.infogram-people2:before {
   content: "\e97d";
 }
-.infogram-ship:before {
+.infogram-atgt-tocdo:before {
   content: "\e97e";
 }
-.infogram-ship1:before {
+.infogram-traffic-rescue:before {
   content: "\e97f";
 }
-.infogram-ship3:before {
+.infogram-truck:before {
   content: "\e980";
 }
-.infogram-ship4:before {
+.infogram-bus:before {
   content: "\e981";
 }
-.infogram-sideslip:before {
+.infogram-chayrung:before {
   content: "\e982";
 }
-.infogram-soccer:before {
+.infogram-cuunan:before {
   content: "\e983";
 }
-.infogram-spray:before {
+.infogram-atgt-tainan:before {
   content: "\e984";
 }
-.infogram-star:before {
+.infogram-atgt-nguoi:before {
   content: "\e985";
 }
-.infogram-stock-market:before {
+.infogram-atgt-duong-tron:before {
   content: "\e986";
 }
-.infogram-sun:before {
+.infogram-atgt-cont:before {
   content: "\e987";
 }
-.infogram-sunset:before {
+.infogram-atgt-chat-kich-thich:before {
   content: "\e988";
 }
-.infogram-thien-tai:before {
+.infogram-atgt-car:before {
   content: "\e989";
 }
-.infogram-thu-chi-nsnn:before {
+.infogram-atgt-can:before {
   content: "\e98a";
 }
-.infogram-tkcn-cau-hang:before {
+.infogram-atgt-cam-oto:before {
   content: "\e98b";
 }
-.infogram-tkcn-cl:before {
+.infogram-atgt-bike:before {
   content: "\e98c";
 }
-.infogram-tkcn-nha-sap:before {
+.infogram-atgt-beer:before {
   content: "\e98d";
 }
-.infogram-tkcn-people:before {
+.infogram-atgt-cam:before {
   content: "\e98e";
 }
-.infogram-tkcn-tn-bien:before {
+.infogram-atgt-van-chuyen:before {
   content: "\e98f";
 }
-.infogram-tkcn-tn-hoa-chat:before {
+.infogram-atgt-luat-gt:before {
   content: "\e990";
 }
-.infogram-tkcn-tn-may-bay:before {
+.infogram-atgt-trafficlight:before {
   content: "\e991";
 }
-.infogram-tkcn-tn-no:before {
+.infogram-atgt-the:before {
   content: "\e992";
 }
-.infogram-tkcn-tn-thien-tai:before {
+.infogram-atgt-tt:before {
   content: "\e993";
 }
-.infogram-tkcn-tn-thuy-noi-dia:before {
+.infogram-cuuthuong:before {
   content: "\e994";
 }
-.infogram-tkcn-tran-dau:before {
+.infogram-bao:before {
   content: "\e995";
 }
-.infogram-tkcn-yt:before {
+.infogram-fire:before {
   content: "\e996";
 }
-.infogram-traffic-accidents:before {
+.infogram-ship3:before {
   content: "\e997";
 }
-.infogram-traffic-rescue:before {
+.infogram-cho-ben-thanh:before {
   content: "\e998";
 }
-.infogram-train:before {
+.infogram-chua-mot-cot:before {
   content: "\e999";
 }
-.infogram-train-2:before {
+.infogram-people:before {
   content: "\e99a";
 }
-.infogram-trans:before {
+.infogram-doctors:before {
   content: "\e99b";
 }
-.infogram-tree:before {
+.infogram-motobike:before {
   content: "\e99c";
 }
-.infogram-truck:before {
+.infogram-sideslip:before {
   content: "\e99d";
 }
-.infogram-truckle:before {
+.infogram-money2:before {
   content: "\e99e";
 }
-.infogram-user-art:before {
+.infogram-traffic-accidents:before {
   content: "\e99f";
 }
-.infogram-user-connect:before {
+.infogram-ship1:before {
   content: "\e9a0";
 }
-.infogram-user-home:before {
+.infogram-no-car:before {
   content: "\e9a1";
 }
-.infogram-user-like:before {
+.infogram-train:before {
   content: "\e9a2";
 }
-.infogram-users-build:before {
+.infogram-church:before {
   content: "\e9a3";
 }
-.infogram-users-chart:before {
+.infogram-research-market:before {
   content: "\e9a4";
 }
-.infogram-users-config2:before {
+.infogram-db-money:before {
   content: "\e9a5";
 }
-.infogram-users-up:before {
+.infogram-connected:before {
   content: "\e9a6";
 }
-.infogram-user-talk:before {
+.infogram-bank:before {
   content: "\e9a7";
 }
-.infogram-virus:before {
+.infogram-xay-dung:before {
   content: "\e9a8";
 }
-.infogram-virus2:before {
+.infogram-wea-rain2:before {
   content: "\e9a9";
 }
-.infogram-wea-rain:before {
+.infogram-virus2:before {
   content: "\e9aa";
 }
-.infogram-wea-rain2:before {
+.infogram-money-block2:before {
   content: "\e9ab";
 }
-.infogram-wind:before {
+.infogram-screen-sitemap:before {
   content: "\e9ac";
 }
-.infogram-xay-dung:before {
+.infogram-power-pole:before {
   content: "\e9ad";
+}
+.infogram-police:before {
+  content: "\e9ae";
+}
+.infogram-online:before {
+  content: "\e9af";
+}
+.infogram-pagoda:before {
+  content: "\e9b0";
+}
+.infogram-beach:before {
+  content: "\e9b1";
+}
+.infogram-landslip:before {
+  content: "\e9b2";
+}
+.infogram-forest-fire1:before {
+  content: "\e9b3";
+}
+.infogram-rain:before {
+  content: "\e9b4";
+}
+.infogram-stock-market:before {
+  content: "\e9b5";
+}
+.infogram-hand-globe:before {
+  content: "\e9b6";
+}
+.infogram-wind:before {
+  content: "\e9b7";
+}
+.infogram-airplane2:before {
+  content: "\e9b8";
+}
+.infogram-hand-money:before {
+  content: "\e9b9";
+}
+.infogram-oil:before {
+  content: "\e9ba";
+}
+.infogram-globe-growth:before {
+  content: "\e9bb";
+}
+.infogram-globe-shield:before {
+  content: "\e9bc";
+}
+.infogram-users-config2:before {
+  content: "\e9bd";
+}
+.infogram-science2:before {
+  content: "\e9be";
+}
+.infogram-arrow-collapse:before {
+  content: "\e9bf";
+}
+.infogram-gold3:before {
+  content: "\e9c0";
+}
+.infogram-chart3:before {
+  content: "\e9c1";
+}
+.infogram-globe-change2:before {
+  content: "\e9c2";
+}
+.infogram-du-lich:before {
+  content: "\e9c3";
+}
+.infogram-giao-thong-vt:before {
+  content: "\e9c4";
+}
+.infogram-global-info:before {
+  content: "\e9c5";
+}
+.infogram-phat-trien-doanh-nghiep:before {
+  content: "\e9c6";
+}
+.infogram-thu-chi-nsnn:before {
+  content: "\e9c7";
+}
+.infogram-gdp:before {
+  content: "\e9c8";
+}
+.infogram-quy-mo-kinh-te:before {
+  content: "\e9c9";
+}
+.infogram-co-cau-kinh-te:before {
+  content: "\e9ca";
+}
+.infogram-thien-tai:before {
+  content: "\e9cb";
+}
+.infogram-an-toan-giao-thong:before {
+  content: "\e9cc";
+}
+.infogram-lut-bao:before {
+  content: "\e9cd";
+}
+.infogram-chart-money:before {
+  content: "\e9ce";
+}
+.infogram-sunset:before {
+  content: "\e9cf";
+}
+.infogram-chart-oil:before {
+  content: "\e9d0";
+}
+.infogram-hand-chart:before {
+  content: "\e9d1";
+}
+.infogram-file-chart3:before {
+  content: "\e9d2";
+}
+.infogram-construct:before {
+  content: "\e9d3";
+}
+.infogram-oil2:before {
+  content: "\e9d4";
+}
+.infogram-gold-2:before {
+  content: "\e9d5";
+}
+.infogram-user-like:before {
+  content: "\e9d6";
+}
+.infogram-crane:before {
+  content: "\e9d7";
+}
+.infogram-chip:before {
+  content: "\e9d8";
+}
+.infogram-book:before {
+  content: "\e9d9";
+}
+.infogram-forest-fire:before {
+  content: "\e9da";
+}
+.infogram-health:before {
+  content: "\e9db";
+}
+.infogram-virus:before {
+  content: "\e9dc";
+}
+.infogram-filter-chart:before {
+  content: "\e9dd";
+}
+.infogram-money-change:before {
+  content: "\e9de";
+}
+.infogram-gold2:before {
+  content: "\e9df";
+}
+.infogram-money1:before {
+  content: "\e9e0";
+}
+.infogram-airplane:before {
+  content: "\e9e1";
+}
+.infogram-chess:before {
+  content: "\e9e2";
+}
+.infogram-flamingo:before {
+  content: "\e9e3";
+}
+.infogram-soccer:before {
+  content: "\e9e4";
+}
+.infogram-user-art:before {
+  content: "\e9e5";
+}
+.infogram-spray:before {
+  content: "\e9e6";
+}
+.infogram-chart-user:before {
+  content: "\e9e7";
+}
+.infogram-sun:before {
+  content: "\e9e8";
+}
+.infogram-building1:before {
+  content: "\e9e9";
+}
+.infogram-wea-rain:before {
+  content: "\e9ea";
+}
+.infogram-cloud:before {
+  content: "\e9eb";
+}
+.infogram-tree:before {
+  content: "\e9ec";
+}
+.infogram-city:before {
+  content: "\e9ed";
+}
+.infogram-truckle:before {
+  content: "\e9ee";
+}
+.infogram-plain:before {
+  content: "\e9ef";
+}
+.infogram-chart2:before {
+  content: "\e9f0";
+}
+.infogram-globe-arrow:before {
+  content: "\e9f1";
+}
+.infogram-chart1:before {
+  content: "\e9f2";
+}
+.infogram-house:before {
+  content: "\e9f3";
+}
+.infogram-users-build:before {
+  content: "\e9f4";
+}
+.infogram-money-connect:before {
+  content: "\e9f5";
+}
+.infogram-file-chart2:before {
+  content: "\e9f6";
+}
+.infogram-file-chart1:before {
+  content: "\e9f7";
+}
+.infogram-file-chart:before {
+  content: "\e9f8";
+}
+.infogram-user-talk:before {
+  content: "\e9f9";
+}
+.infogram-gold:before {
+  content: "\e9fa";
+}
+.infogram-money:before {
+  content: "\e9fb";
+}
+.infogram-user-connect:before {
+  content: "\e9fc";
+}
+.infogram-globe-connect:before {
+  content: "\e9fd";
+}
+.infogram-events:before {
+  content: "\e9fe";
+}
+.infogram-trans:before {
+  content: "\e9ff";
+}
+.infogram-building:before {
+  content: "\ea00";
+}
+.infogram-ship:before {
+  content: "\ea01";
+}
+.infogram-map-vi:before {
+  content: "\ea02";
+}
+.infogram-globe-change:before {
+  content: "\ea03";
+}
+.infogram-users-chart:before {
+  content: "\ea04";
+}
+.infogram-users-up:before {
+  content: "\ea05";
+}
+.infogram-globe-chart-money:before {
+  content: "\ea06";
+}
+.infogram-science:before {
+  content: "\ea07";
+}
+.infogram-mobile-chart:before {
+  content: "\ea08";
+}
+.infogram-chart-growth:before {
+  content: "\ea09";
+}
+.infogram-factory:before {
+  content: "\ea0a";
+}
+.infogram-globe-money:before {
+  content: "\ea0b";
+}
+.infogram-hand-touch:before {
+  content: "\ea0c";
+}
+.infogram-oil-money:before {
+  content: "\ea0d";
+}
+.infogram-user-home:before {
+  content: "\ea0e";
+}
+.infogram-financial-news:before {
+  content: "\ea0f";
+}
+.infogram-more-arrow:before {
+  content: "\ea10";
+}
+.infogram-globe-click:before {
+  content: "\ea11";
+}
+.infogram-news:before {
+  content: "\ea12";
 }
