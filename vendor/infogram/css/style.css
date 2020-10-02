@@ -24,7 +24,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.infogram-tkqg-2:before {
+  content: "\ea13";
+}
+.infogram-tkqg-12:before {
+  content: "\ea14";
+}
 .infogram-tkqg-1:before {
   content: "\e900";
 }
