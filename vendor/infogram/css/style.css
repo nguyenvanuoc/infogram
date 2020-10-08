@@ -24,6 +24,28 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.infogram-ksht-07:before {
+  content: "\ea15";
+}
+.infogram-ksht-01:before {
+  content: "\ea16";
+}
+.infogram-ksht-02:before {
+  content: "\ea17";
+}
+.infogram-ksht-03:before {
+  content: "\ea18";
+}
+.infogram-ksht-04:before {
+  content: "\ea19";
+}
+.infogram-ksht-05:before {
+  content: "\ea1a";
+}
+.infogram-ksht-06:before {
+  content: "\ea1b";
+}
 .infogram-tkqg-2:before {
   content: "\ea13";
 }
