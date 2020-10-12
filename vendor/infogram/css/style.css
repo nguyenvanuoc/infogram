@@ -24,7 +24,18 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.infogram-trangchu-02:before {
+  content: "\ea1c";
+}
+.infogram-trangchu-03:before {
+  content: "\ea1d";
+}
+.infogram-trangchu-04:before {
+  content: "\ea1e";
+}
+.infogram-trangchu-01:before {
+  content: "\ea1f";
+}
 .infogram-ksht-07:before {
   content: "\ea15";
 }
