@@ -24,6 +24,24 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.infogram-hnktqt-04:before {
+  content: "\ea20";
+}
+.infogram-hnktqt-05:before {
+  content: "\ea21";
+}
+.infogram-hnktqt-06:before {
+  content: "\ea22";
+}
+.infogram-hnktqt-01:before {
+  content: "\ea23";
+}
+.infogram-hnktqt-02:before {
+  content: "\ea24";
+}
+.infogram-hnktqt-03:before {
+  content: "\ea25";
+}
 .infogram-trangchu-02:before {
   content: "\ea1c";
 }
