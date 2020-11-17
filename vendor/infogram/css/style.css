@@ -24,6 +24,26 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.infogram-map-money:before {
+  content: "\ea26";
+
+}
+.infogram-light:before {
+  content: "\ea27";
+
+}
+.infogram-sangche:before {
+  content: "\ea28";
+
+}
+.infogram-nghiencuu:before {
+  content: "\ea29";
+
+}
+.infogram-tl-racthai:before {
+  content: "\ea2a";
+
+}
 .infogram-hnktqt-04:before {
   content: "\ea20";
 }
