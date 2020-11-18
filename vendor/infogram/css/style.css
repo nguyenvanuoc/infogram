@@ -24,6 +24,42 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.infogram-sxcn-06:before {
+  content: "\ea2b";
+}
+.infogram-sxcn-05:before {
+  content: "\ea2c";
+}
+.infogram-sxcn-04:before {
+  content: "\ea2d";
+}
+.infogram-sxcn-03:before {
+  content: "\ea2e";
+}
+.infogram-sxcn-02:before {
+  content: "\ea2f";
+}
+.infogram-sxcn-01:before {
+  content: "\ea30";
+}
+.infogram-sxcn-12:before {
+  content: "\ea31";
+}
+.infogram-sxcn-11:before {
+  content: "\ea32";
+}
+.infogram-sxcn-10:before {
+  content: "\ea33";
+}
+.infogram-sxcn-09:before {
+  content: "\ea34";
+}
+.infogram-sxcn-08:before {
+  content: "\ea35";
+}
+.infogram-sxcn-07:before {
+  content: "\ea36";
+}
 .infogram-map-money:before {
   content: "\ea26";
 
