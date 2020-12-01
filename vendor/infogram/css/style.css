@@ -24,6 +24,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.infogram-sxcn-14:before {
+  content: "\ea37";
+}
+.infogram-sxcn-13:before {
+  content: "\ea38";
+}
 .infogram-sxcn-06:before {
   content: "\ea2b";
 }
