@@ -24,6 +24,48 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.infogram-nsnn-2:before {
+  content: "\ea39";
+}
+.infogram-nsnn-1:before {
+  content: "\ea3a";
+}
+.infogram-kdl-01:before {
+  content: "\ea3b";
+}
+.infogram-kdl-02:before {
+  content: "\ea3c";
+}
+.infogram-kdl-03:before {
+  content: "\ea3d";
+}
+.infogram-kdl-04:before {
+  content: "\ea3e";
+}
+.infogram-kdl-05:before {
+  content: "\ea3f";
+}
+.infogram-kdl-06:before {
+  content: "\ea40";
+}
+.infogram-kdl-07:before {
+  content: "\ea41";
+}
+.infogram-kdl-08:before {
+  content: "\ea42";
+}
+.infogram-kdl-09:before {
+  content: "\ea43";
+}
+.infogram-kdl-10:before {
+  content: "\ea44";
+}
+.infogram-kdl-11:before {
+  content: "\ea45";
+}
+.infogram-kdl-12:before {
+  content: "\ea46";
+}
 .infogram-sxcn-14:before {
   content: "\ea37";
 }
