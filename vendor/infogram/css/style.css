@@ -24,7 +24,30 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.infogram-covid-4:before {
+  content: "\ea4c";
+}
+.infogram-covid-3:before {
+  content: "\ea4d";
+}
+.infogram-covid-2:before {
+  content: "\ea4e";
+}
+.infogram-covid-1:before {
+  content: "\ea4f";
+}
+.infogram-covid-8:before {
+  content: "\ea50";
+}
+.infogram-covid-7:before {
+  content: "\ea51";
+}
+.infogram-covid-6:before {
+  content: "\ea52";
+}
+.infogram-covid-5:before {
+  content: "\ea53";
+}
 .infogram-sxcn-16:before {
   content: "\ea47";
 }
