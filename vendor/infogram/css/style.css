@@ -24,6 +24,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.infogram-covid-9:before {
+  content: "\ea54";
+}
 .infogram-covid-4:before {
   content: "\ea4c";
 }
