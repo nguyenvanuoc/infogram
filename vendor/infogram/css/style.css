@@ -24,6 +24,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.infogram-ktxh-05:before {
+  content: "\ea58";
+}
+.infogram-ktxh-04:before {
+  content: "\ea59";
+}
 .infogram-ktxh-02:before {
   content: "\ea55";
 }
