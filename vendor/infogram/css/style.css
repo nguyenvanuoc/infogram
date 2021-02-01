@@ -24,6 +24,15 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.infogram-ktxh-02:before {
+  content: "\ea55";
+}
+.infogram-ktxh-03:before {
+  content: "\ea56";
+}
+.infogram-ktxh-01:before {
+  content: "\ea57";
+}
 .infogram-covid-9:before {
   content: "\ea54";
 }
