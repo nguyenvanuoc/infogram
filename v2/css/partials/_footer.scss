@@ -1,0 +1,33 @@
+/*
+
+	Footer
+
+ */
+
+.footer{
+	background:$second;
+	color:#fff;
+	font-weight: 600;
+	padding: 10px 0px;
+	margin-top: 30px;
+	.list-info{
+		.item{
+			width: 33.333%;
+			padding: 5px 10px;
+			float: left;
+			text-align: center;
+			&:last-child{
+				text-align: right;
+			}
+			&:first-child{
+				text-align: left;
+			}
+			@media(max-width: 768px){
+				width: 100%;
+				padding: 5px 10px;
+				text-align: center !important;
+			}
+		}
+	}
+	
+}

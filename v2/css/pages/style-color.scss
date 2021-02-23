@@ -1,0 +1,553 @@
+$green:#2C5809;
+$blue:#2A3D8B;
+$blue2:#3c59cd;
+$green2:#019340;
+.alertify-button{
+    text-shadow: none;
+}
+
+.style-green{
+    .main{
+        color: $green !important;
+    }
+    .hero-banner{
+        background-color: $green;
+    }
+    .box-noti-marquee a{
+        color: $green;
+        &:hover{
+            color: $green2;
+        }
+    }
+    .head-title .readmore{
+        color: $green;
+        &:hover{
+            color: $green2;
+        }
+    }
+    .list-data .item > a .no{
+        background: $green2;
+
+    }
+    .post-title, .post-title > a{
+        &:hover{
+            color: $green;
+        }
+    }
+    .box-search .input-search .adv-search{
+        color: $green;
+    }
+    .post-cat{
+        color: $green2;
+    }
+    .footer{
+        background: $green;
+    }
+    .banner-text-cus{
+        background-color: $green;
+    }
+    .btn-third{
+        border-color: $green2;
+        color: $green2;
+        &:hover{
+            border-color: $green2;
+            background:$green2;
+            color: #fff;
+        }
+    }
+    .btn-main{
+        border-color: $green2;
+        background: $green2;
+        &:hover{
+            border-color: $green;
+            background:$green;
+            color: #fff;
+        }
+    }
+    .head-main{
+        background: rgba($green,0.1);
+        .icon{
+            background: $green;
+        }
+    }
+    .input-search-box .btn-search{
+        background: $green2;
+    }
+    .list-results .top .icon{
+        color: $green;
+    }
+    .list-results .item:hover .top{
+        color: $green;
+    }
+    .pagination-cus > li.active > a, .pagination-cus > li.active:hover > a, .pagination > li.active > a, .pagination > li.active:hover > a{
+        border-color: $green !important;
+        background: $green ;
+    }
+    .pagination-cus > li > a:hover, .pagination-cus > li > span:hover, .pagination > li > a:hover, .pagination > li > span:hover{
+        color: $green;
+    }
+    .box-tracuu .tracuu-sidebar .title{
+        background: rgba($green,0.1);
+
+    }
+    .box-tracuu .tracuu-sidebar .list-menus > li.active > a{
+        background: rgba($green,0.1);
+
+    }
+    .box-tracuu .tracuu-sidebar .list-menus .icon{
+        color: $green;
+    }
+    .box-tracuu .tracuu-sidebar .list-menus > li.active > a:before{
+        background: $green;
+    }
+    .box-tracuu .tracuu-sidebar .list-menus > li:hover > a{
+        color: $green;
+    }
+    .list-steps .dot{
+        border-color: $green;
+    }
+    .list-steps .dot:before{
+        background: $green;
+    }
+    .list-steps .title{
+        color: $green;
+    }
+    .table-result tr > th{
+        background: #EAEEE6 !important;
+    }
+    .box-noti .icon{
+        color: $green;
+    }
+    .box-tc-congdan .tags .li{
+        color: $green;
+        border-color: $green;
+    }
+    .box-tc-congdan .input-search .btn-search:hover{
+        background: $green;
+    }
+    .box-tc-congdan .input-search .btn-adv:hover{
+        color: $green;
+    }
+    .form-control:focus{
+        border-color: $green;
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba($green, 0.4);
+    }
+    .legend-title{
+        border-bottom-color: $green2;
+    }
+    .section-pakn .ques-item .avatar{
+        background: rgba($green,0.1);
+        color: $green;
+    }
+    .actions-rate .btn-like{
+        border-color: $green2;
+        &:hover{
+            background: $green2;
+            .icon{
+                color: #fff;
+            }
+        }
+    }
+    .actions-rate .btn-like .icon{
+        color: $green2;
+    }
+    .actions-rate .btn-dislike:hover{
+        &:hover{
+            background: $green2;
+            border-color: $green2;
+            .icon{
+                color: #fff;
+            }
+        }
+    }
+    .list-document a .icon{
+        color: $green;
+    }
+    .tabs > li.active > a{
+        color: $green2;
+    }
+    .tabs a:hover{
+        color: $green2;
+    }
+    .second{
+        color: $green2 !important;
+    }
+    .tabs > li.active:before{
+        background: $green2;
+    }
+    .section-pakn .list-pakn .item .icon{
+        background: rgba($green2,0.1);
+        color: $green2;
+    }
+    .box-schedule .fc-widget-header .fc-day-header{
+        background: rgba($green,0.1);
+        border-bottom:2px solid $green;
+    }
+    .fc-header-toolbar .fc-right .fc-today-button{
+        background: $green2;
+    }
+    .box-schedule .fc-widget-header .fc-widget-header{
+        border-bottom:2px solid $green;
+    }
+    .fc-button-group button.fc-state-active{
+        background: $green2;
+        border-color: $green2;
+    }
+    .panel-bc .panel-title{
+        background: rgba($green,0.1);
+    }
+    .panel-bc .panel-title .icon{
+        color: $green;
+    }
+    .panel-bc.-sidebar .list-trees .item.active{
+        background: rgba($green,0.1);
+        color: $green;
+    }
+    .panel-bc.-sidebar .list-trees .item > a:hover{
+        color: $green;
+    }
+    .btn-second{
+        color: $green2;
+        &:hover{
+            background: $green2;
+            border-color: $green2;
+            color: #fff;
+        }
+    }
+    .box-search-bctk .dropdown-box .datepicker table thead .dow{
+        color: $green;
+    }
+    .box-search-bctk .dropdown-box .datepicker table tr td.today, .box-search-bctk .dropdown-box .datepicker table tr td.today.disabled, .box-search-bctk .dropdown-box .datepicker table tr td.today.disabled:hover, .box-search-bctk .dropdown-box .datepicker table tr td.today:hover{
+        background: $green2;
+    }
+    .hdsd-steps .circle .icon{
+        color: $green2;
+    }
+    .hdsd-steps .circle .number{
+        background: $green2;
+    }
+    .box-search-bctk .btn-date.-noti{
+        color: $green2;
+    }
+    .box-search-bctk .btn-date.-noti:before{
+        background: $green2;
+    }
+    .select2-container--default.select2-container--open .select2-selection--single{
+        border-color: $green2 !important;
+    }
+    .select2-container--default .select2-results__option--highlighted[aria-selected]{
+        background: rgba($green2,0.1);
+    }
+    .select2-container--default .select2-results__option[aria-selected=true]{
+        background: $green2;
+    }
+    .alertify-button-ok, .alertify-button-ok:hover, .alertify-button-ok:focus{
+        border-color: $green2;
+        background-color: $green2;
+    }
+    .alertify-button-cancel, .alertify-button-cancel:hover, .alertify-button-cancel:focus{
+        border-color: $green2;
+    }
+    .list-view-grid .icon{
+        color: $green2;
+    }
+    .list-view-grid .box-list.-top .item > a:hover{
+        border-color: $green2;
+        color: $green2;
+    }
+    .check-action input:checked + .name:before{
+        border-color: $green2;
+        background: $green2;
+    }
+    .check-action input[type=radio]:checked + .name:before{
+        border-color: $green2;
+        color: $green2;
+    }
+    .check-action input[type=radio]:checked + .name:after{
+        background-color: $green2;
+    }
+    .hdsd-steps .circle .icon{
+        color: $green2;
+    }
+
+}
+
+
+.style-blue{
+    .main{
+        color: $blue !important;
+    }
+    .hero-banner{
+        background-color: $blue;
+    }
+    .hdsd-steps .circle .icon{
+        color: $blue2;
+    }
+    .box-noti-marquee a{
+        color: $blue;
+        &:hover{
+            color: $blue2;
+        }
+    }
+    .head-title .readmore{
+        color: $blue;
+        &:hover{
+            color: $blue2;
+        }
+    }
+    .list-data .item > a .no{
+        background: $blue2;
+
+    }
+    .post-title, .post-title > a{
+        &:hover{
+            color: $blue;
+        }
+    }
+    .box-search .input-search .adv-search{
+        color: $green2;
+    }
+    .post-cat{
+        color: $green2;
+    }
+    .footer{
+        background: $blue;
+    }
+    .banner-text-cus{
+        background-color: $blue;
+    }
+    .btn-third{
+        border-color: $blue2;
+        color: $blue2;
+        &:hover{
+            border-color: $blue2;
+            background:$blue2;
+            color: #fff;
+        }
+    }
+    .btn-main{
+        border-color: $blue2;
+        background: $blue2;
+        &:hover{
+            border-color: $blue;
+            background:$blue;
+            color: #fff;
+        }
+    }
+    .head-main{
+        background: rgba($blue,0.1);
+        .icon{
+            background: $blue;
+        }
+    }
+    .input-search-box .btn-search{
+        background: $blue2;
+    }
+    .list-results .top .icon{
+        color: $blue;
+    }
+    .list-results .item:hover .top{
+        color: $blue;
+    }
+    .pagination-cus > li.active > a, .pagination-cus > li.active:hover > a, .pagination > li.active > a, .pagination > li.active:hover > a{
+        border-color: $blue !important;
+        background: $blue ;
+    }
+    .pagination-cus > li > a:hover, .pagination-cus > li > span:hover, .pagination > li > a:hover, .pagination > li > span:hover{
+        color: $blue;
+    }
+    .box-tracuu .tracuu-sidebar .title{
+        background: rgba($blue,0.1);
+
+    }
+    .box-tracuu .tracuu-sidebar .list-menus > li.active > a{
+        background: rgba($blue,0.1);
+
+    }
+    .box-tracuu .tracuu-sidebar .list-menus .icon{
+        color: $blue;
+    }
+    .box-tracuu .tracuu-sidebar .list-menus > li.active > a:before{
+        background: $blue;
+    }
+    .box-tracuu .tracuu-sidebar .list-menus > li:hover > a{
+        color: $blue;
+    }
+    .list-steps .dot{
+        border-color: $blue;
+    }
+    .list-steps .dot:before{
+        background: $blue;
+    }
+    .list-steps .title{
+        color: $blue;
+    }
+    .table-result tr > th{
+        background: #EAEEE6 !important;
+    }
+    .box-noti .icon{
+        color: $blue;
+    }
+    .box-tc-congdan .tags .li{
+        color: $blue;
+        border-color: $blue;
+    }
+    .box-tc-congdan .input-search .btn-search:hover{
+        background: $blue;
+    }
+    .box-tc-congdan .input-search .btn-adv:hover{
+        color: $blue;
+    }
+    .form-control:focus{
+        border-color: $blue;
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba($blue, 0.4);
+    }
+    .legend-title{
+        border-bottom-color: $blue2;
+    }
+    .section-pakn .ques-item .avatar{
+        background: rgba($blue,0.1);
+        color: $blue;
+    }
+    .actions-rate .btn-like{
+        border-color: $blue2;
+        &:hover{
+            background: $blue2;
+            .icon{
+                color: #fff;
+            }
+        }
+    }
+    .actions-rate .btn-like .icon{
+        color: $blue2;
+    }
+    .actions-rate .btn-dislike:hover{
+        &:hover{
+            background: $blue2;
+            border-color: $blue2;
+            .icon{
+                color: #fff;
+            }
+        }
+    }
+    .list-document a .icon{
+        color: $blue;
+    }
+    .tabs > li.active > a{
+        color: $blue2;
+    }
+    .tabs a:hover{
+        color: $blue2;
+    }
+    .second{
+        color: $blue2 !important;
+    }
+    .tabs > li.active:before{
+        background: $blue2;
+    }
+    .section-pakn .list-pakn .item .icon{
+        background: rgba($blue2,0.1);
+        color: $blue2;
+    }
+    .box-schedule .fc-widget-header .fc-day-header{
+        background: rgba($blue,0.1);
+        border-bottom:2px solid $blue;
+    }
+    .fc-header-toolbar .fc-right .fc-today-button{
+        background: $blue2;
+    }
+    .box-schedule .fc-widget-header .fc-widget-header{
+        border-bottom:2px solid $blue;
+    }
+    .fc-button-group button.fc-state-active{
+        background: $blue2;
+        border-color: $blue2;
+    }
+    .panel-bc .panel-title{
+        background: rgba($blue,0.1);
+    }
+    .panel-bc .panel-title .icon{
+        color: $blue;
+    }
+    .panel-bc.-sidebar .list-trees .item.active{
+        background: rgba($blue,0.1);
+        color: $blue;
+    }
+    .panel-bc.-sidebar .list-trees .item > a:hover{
+        color: $blue;
+    }
+    .btn-second{
+        color: $blue2;
+        &:hover{
+            background: $blue2;
+            border-color: $blue2;
+            color: #fff;
+        }
+    }
+    .box-search-bctk .dropdown-box .datepicker table thead .dow{
+        color: $blue;
+    }
+    .box-search-bctk .dropdown-box .datepicker table tr td.today, .box-search-bctk .dropdown-box .datepicker table tr td.today.disabled, .box-search-bctk .dropdown-box .datepicker table tr td.today.disabled:hover, .box-search-bctk .dropdown-box .datepicker table tr td.today:hover{
+        background: $blue2;
+    }
+    .hdsd-steps .circle .icon{
+        color: $blue2;
+    }
+    .hdsd-steps .circle .number{
+        background: $blue2;
+    }
+    .box-search-bctk .btn-date.-noti{
+        color: $blue2;
+    }
+    .box-search-bctk .btn-date.-noti:before{
+        background: $blue2;
+    }
+    .select2-container--default.select2-container--open .select2-selection--single{
+        border-color: $blue2 !important;
+    }
+    .select2-container--default .select2-results__option--highlighted[aria-selected]{
+        background: rgba($blue2,0.1);
+    }
+    .select2-container--default .select2-results__option[aria-selected=true]{
+        background: $blue2;
+    }
+    .alertify-button-ok, .alertify-button-ok:hover, .alertify-button-ok:focus{
+        border-color: $blue2;
+        background-color: $blue2;
+    }
+    .alertify-button-cancel, .alertify-button-cancel:hover, .alertify-button-cancel:focus{
+        border-color: $blue2;
+    }
+    .list-view-grid .icon{
+        color: $blue2;
+    }
+    .list-view-grid .box-list.-top .item > a:hover{
+        border-color: $blue2;
+        color: $blue2;
+    }
+    .check-action input:checked + .name:before{
+        border-color: $blue2;
+        background: $blue2;
+    }
+    .check-action input[type=radio]:checked + .name:before{
+        border-color: $blue2;
+        color: $blue2;
+    }
+    .check-action input[type=radio]:checked + .name:after{
+        background-color: $blue2;
+    }
+}
+@media(max-width: 768px){
+    .style-green{
+        .menus{
+            background: $green;
+        }
+
+    }
+    .style-blue{
+        .menus{
+            background: $blue;
+        }
+        
+    }
+}
