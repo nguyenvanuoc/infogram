@@ -571,6 +571,15 @@
 	            
 	        });
 	    }
+	    var sizeScreen=window.innerWidth;
+	    if(sizeScreen<=768){
+	    	$("[data-toggle='dropdown']").click(function(e){
+		    	e.stopPropagation();
+		    	console.log("test");
+		    	$(this).parents(".dropdown").toggleClass("open");
+		    });
+	    }
+	    
 	   
 	</script>
 </body>
